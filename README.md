@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sucharita Chaini.</h1>
+https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif
 <h3 align="center">Data Science | Innovation</h3>
 
 - 🔭 I’m currently working on **Predictive Analytics for Cryptocurencies.**
