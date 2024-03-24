@@ -21,7 +21,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-sucharitachaini@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sucharitachaini@gmail.com)](mailto:sucharitachaini@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schaini/)](https://www.linkedin.com/in/schaini/)
+[![Linkedin Badge](https://img.shields.io/badge/-schaini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schaini/)](https://www.linkedin.com/in/schaini/)
 
 
 <h3 align="left">Languages and Tools:</h3>
