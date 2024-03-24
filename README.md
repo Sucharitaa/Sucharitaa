@@ -18,7 +18,9 @@
 
 - ⚡ Fun fact **I'm enthralled by the diverse tapestry of world mythology, from the epic tales of Hindu gods to the enchanting folklore of Japanese yokai.**
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me: [![Gmail Badge](https://img.shields.io/badge/-sucharitachaini@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtosucharitachaini@gmail.com)](mailto:sucharitachaini@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schaini/)](https://www.linkedin.com/in/schaini/)
+ </h3>
 <p align="left">
 </p>
 
