@@ -9,11 +9,9 @@
 
 - 🤝 I’m looking for help with **NLP, AutoML, XAI.**
 
-- 📫 How to reach me **sucharitachaini@gmail.com**
-
 - ⚡ Fun fact **I'm enthralled by the diverse tapestry of world mythology, from the epic tales of Hindu gods to the enchanting folklore of Japanese yokai.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
